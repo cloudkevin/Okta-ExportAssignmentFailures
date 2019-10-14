@@ -1,3 +1,5 @@
+#!/usr/bin/python3
+
 import requests as r
 import json, csv
 import logging as l
